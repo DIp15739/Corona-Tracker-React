@@ -1,6 +1,6 @@
 # COVID-19 Tracker
 
-### [Live Site]()
+### [Live Site](http://covid19stats.systems/)
 
 ![c19](https://user-images.githubusercontent.com/42184833/82927789-dd059080-9f9e-11ea-963a-36825cc0a8a4.png)
 
@@ -12,3 +12,5 @@ Setup:
 
 - run `npm i`
 - run `npm start`
+
+![c19](https://user-images.githubusercontent.com/42184833/83008689-315a5000-a033-11ea-8da8-499071826195.gif)
